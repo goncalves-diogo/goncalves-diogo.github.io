@@ -38,6 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 TODO:
  - To get the contact form working look into formspree.io
- - Change tab title
  - Fix color bug on right panel
  - Enrich text information
+ - Implement the download cv button
+ - Center the download button
+ - Arranjar os README quer daqui quer do repo do CV
+ -
