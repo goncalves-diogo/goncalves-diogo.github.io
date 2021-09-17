@@ -43,4 +43,3 @@ TODO:
  - Implement the download cv button
  - Center the download button
  - Arranjar os README quer daqui quer do repo do CV
- -
